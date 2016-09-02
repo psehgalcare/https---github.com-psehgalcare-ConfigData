@@ -1,4 +1,4 @@
-# lab-3-test.yml
+# lab-3-client.yml
 ---
 spring:
-lucky-word:Clover, cricket, pankaj
+lucky-word:Clover
